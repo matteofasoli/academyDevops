@@ -1,2 +1,0 @@
-modifica 1/2 in locale e su github con conflitto risolto
-
